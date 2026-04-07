@@ -1,4 +1,4 @@
-#!/bin/sh
+#! /usr/bin/env bash
 #set -x
 # PRISM directory to link to
 if [ "$PRISM_DIR" = "" ]; then
